@@ -9,8 +9,13 @@
 - [ ] Add *Improvements.*
 - [ ] Release *Program.exe.*
 
+# How it works.
+
+This script uses the request libarys to look on a website for specified charters that repesent an email and or phone number grabbing only that infomation from the website.
+
 
 # How to use.
+
 To use, Just install needed libs, and put the website you want to grab from in the *link.txt*
 
 What it Grabs - ***Emails, And Phone Numbers***
